@@ -1,0 +1,144 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/Schermata2022-05-10alle16.30.55-53.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 800px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 81px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  width: 826px;
+  margin: 133px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 787px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 785px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 715px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 501px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 38px auto 0;
+}
+
+.u-section-2 .u-video-1 {
+  width: 570px;
+  height: 321px;
+  margin: 38px auto 52px;
+}
+
+.u-section-2 .embed-responsive-1 {
+  position: absolute;
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 484px;
+  }
+
+  .u-section-2 .u-video-1 {
+    width: 540px;
+    height: 304px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 371px;
+  }
+
+  .u-section-2 .u-video-1 {
+    width: 340px;
+    height: 191px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 901px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 54px auto 0;
+}
+
+.u-section-3 .u-video-1 {
+  width: 537px;
+  height: 302px;
+  margin: 42px auto 0;
+}
+
+.u-section-3 .embed-responsive-1 {
+  position: absolute;
+}
+
+.u-section-3 .u-text-2 {
+  margin: 44px auto 0;
+}
+
+.u-section-3 .u-video-2 {
+  width: 543px;
+  height: 302px;
+  margin: 44px auto 57px;
+}
+
+.u-section-3 .embed-responsive-2 {
+  position: absolute;
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 899px;
+  }
+
+  .u-section-3 .u-video-2 {
+    width: 540px;
+    height: 300px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 677px;
+  }
+
+  .u-section-3 .u-video-1 {
+    width: 340px;
+    height: 191px;
+  }
+
+  .u-section-3 .u-video-2 {
+    width: 340px;
+    height: 189px;
+  }
+}
